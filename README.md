@@ -60,6 +60,9 @@ For example, the cartesian plane is a metric space (its distance function is sqr
 
 A homeomorphism refers to a bijective function f mapping elements from metric space M to metric space N, such that 'f' is continuous and so is its inverse.
 
+#Specifics
+The resource classes 'integer.h', 'inf_float.h', and 'printing_press.h' are all ready to use (if there are bugs please fix them or let someone know). However, 'GNFS.cpp' is still in development.
+
 
 
 ## If there are any other terms you see, please let me know. Or search it up (painful method)
