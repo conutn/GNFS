@@ -53,7 +53,8 @@
 *min(integer a, integer b)* - returns the minimum of a and b
 
 *max(integer a, integer b)* - returns the maximum of a and b
-## inf_float.h NOTE THAT THE CLASS IS ACTUALLY CALLED 'flt'
+## inf_float.h
+*note that the class is called 'flt'*
 ### Data
 *n* - indicates the 'integer' part
 *a* - indicates the power of 2 to multiply n by to get the value actually represented by the float, can be negative
