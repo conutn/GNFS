@@ -65,4 +65,4 @@ The resource classes 'integer.h', 'inf_float.h', and 'printing_press.h' are all 
 
 
 
-## If there are any other terms you see, please let me know. Or search it up (painful method)
+## Disclaimer: Other terms may appear in the document
