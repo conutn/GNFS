@@ -64,10 +64,7 @@ d(x,y)+d(y,z)>=d(x,z)
 For example, the cartesian plane is a metric space (its distance function is sqrt((x0-x1)^2+(y0-y1)^2))
 
 A homeomorphism refers to a bijective function f mapping elements from metric space M to metric space N, such that 'f' is continuous and the inverse of 'f' is also continuous
+## Disclaimer: Other terms may appear in the document
 
 # Specifics
 The resource classes 'integer.h', 'inf_float.h', and 'printing_press.h' are all ready to use (if there are bugs please fix them or let someone know). However, 'GNFS.cpp' is still in development.
-
-
-
-## Disclaimer: Other terms may appear in the document
