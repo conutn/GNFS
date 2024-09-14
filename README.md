@@ -52,10 +52,15 @@ A isomorphism refers to a bijective function 'f' mapping the group (G, +) to (H,
 A homomorphism is an isomorphism except it doesn't need to be bijective.
 
 A metric space refers to a set of points M and a distance function d such that 'd' satisfies these conditions.
+
 d(x,y)=d(y,x)
+
 d(x,y)>0 where x and y are distinct
+
 d(x,x)=0
+
 d(x,y)+d(y,z)>=d(x,z)
+
 For example, the cartesian plane is a metric space (its distance function is sqrt((x0-x1)^2+(y0-y1)^2))
 
 A homeomorphism refers to a bijective function f mapping elements from metric space M to metric space N, such that 'f' is continuous and so is its inverse.
